@@ -189,3 +189,6 @@ Las principales decisiones fueron:
 
 -Incorporación de elementos de riesgo (glitches) para generar tensión
 
+## Diagrama de flujo
+![imagen](
+
