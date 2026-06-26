@@ -115,4 +115,4 @@ No es decorativa, sino que actúa como feedback del sistema:
 
 # Registro visual
 
-[Ver video del proyecto]()
+
