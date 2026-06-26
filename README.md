@@ -55,6 +55,10 @@ Glitch art digital (errores visuales)
 Videojuegos arcade clásicos
 Sistemas interactivos en tiempo real
 
+# LINK DE P5.JS
+https://editor.p5js.org/antonella.llanten/full/o0Y1X1wn2
+
+
 # SISTEMA COMPUTACIONAL
  ## Inputs
 Teclado (flechas)
@@ -121,3 +125,19 @@ Durante el proceso de desarrollo se realizó una primera versión del sistema in
 
 ![proceso](https://github.com/antonellallanten-sys/AntonellaLlanten_EXAMEN_TOMY-CAZADOR-DE-HUESOS-/blob/main/imagenes/IMG_8730.jpeg)
 En esta segunda iteración se incorpora un fondo con grilla, lo que permite dar mayor estructura visual al espacio de interacción y mejorar la lectura del movimiento del sistema.
+
+
+[video final](https://github.com/antonellallanten-sys/AntonellaLlanten_EXAMEN_TOMY-CAZADOR-DE-HUESOS-/blob/main/videos/videos_copy_B10A7907-E95F-47DD-830A-48ED58E168D4%20(3).mov)
+Este registro audiovisual muestra la versión final del sistema interactivo. El proyecto opera como un videojuego basado en estados, donde el usuario controla un personaje dentro de un entorno dinámico. A través de la interacción se activan procesos de recolección, colisión y cambio de estado, evidenciando la relación entre input, procesamiento y respuesta visual del sistema.
+
+## REFLEXIÓN FINAL
+
+El proyecto permite entender cómo un sistema interactivo puede evolucionar mediante estados, entradas del usuario y generación dinámica de elementos.
+
+Las principales decisiones fueron:
+
+-Uso de estados para estructurar el sistema
+-Implementación de lógica de juego tipo arcade
+-Uso de estética OP ART para reforzar la interacción visual
+-Incorporación de elementos de riesgo (glitches) para generar tensión
+
