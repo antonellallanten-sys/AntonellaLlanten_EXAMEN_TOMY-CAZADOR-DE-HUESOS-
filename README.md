@@ -190,5 +190,5 @@ Las principales decisiones fueron:
 -Incorporación de elementos de riesgo (glitches) para generar tensión
 
 ## Diagrama de flujo
-![imagen](
+![imagen](https://github.com/antonellallanten-sys/AntonellaLlanten_EXAMEN_TOMY-CAZADOR-DE-HUESOS-/blob/main/imagenes/Inputs.png)
 
