@@ -115,4 +115,9 @@ No es decorativa, sino que actúa como feedback del sistema:
 
 # Registro visual
 
+![proceso](https://github.com/antonellallanten-sys/AntonellaLlanten_EXAMEN_TOMY-CAZADOR-DE-HUESOS-/blob/main/imagenes/IMG_8729.jpeg)
+
+Durante el proceso de desarrollo se realizó una primera versión del sistema interactivo, donde un personaje controlado por el usuario se mueve por la pantalla para atrapar rectángulos (huesos) y evitar cuadrados rojos (obstáculos).
+
+![proceso] (
 
